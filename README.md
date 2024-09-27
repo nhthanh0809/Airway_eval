@@ -24,7 +24,8 @@ For inference, we used public dataset IBSI 2015 challenges which include 400 ima
 
 In this project, we use CVAT for annotating landmarks and mask on cephalometric images.
 List of landmarks, refer to `./data/points_labels.py`
-The annotation from CVAT must be export in "CVAT for image 1.1
+The annotation from CVAT must be export in "CVAT for image 1.1"
+
 Structure of input image folder and its annotation in xml file as below :
 ```
 ├──v1.0
