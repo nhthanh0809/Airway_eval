@@ -170,7 +170,7 @@ python3 3.Inference_AirwayEvaluation.py
 | Mean specificity  | 0.999085979 |
 | Mean recall       | 0.915468837 |
 
-#### There some output results of the proposal method in below:
+#### Here are some output results of the proposal method:
 - Green landmark: Ground truth
 - Red landmark: Prediction
 
@@ -182,10 +182,9 @@ python3 3.Inference_AirwayEvaluation.py
 </div>
 
 # Reference
-
 This implementation based on some below repos:
-https://github.com/mkisantal/backboned-unet/blob/master/backboned_unet/unet.py
-https://github.com/usuyama/pytorch-unet
-https://github.com/mberkay0/pretrained-backbones-unet
+- https://github.com/mkisantal/backboned-unet/blob/master/backboned_unet/unet.py
+- https://github.com/usuyama/pytorch-unet
+- https://github.com/mberkay0/pretrained-backbones-unet
 # Author
 - Thanh Nguyen Huy (nhthanh0809@gmail.com, thanhhn@medbrainlab.com, https://github.com/nhthanh0809)
